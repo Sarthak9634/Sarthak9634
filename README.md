@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Sarthak Pal!
 <a href='https://www.linkedin.com/in/sarthak-pal-8979652ba/'><img align='left' alt="linkedin" src="https://github.com/Sarthak9634/Sarthak9634/blob/main/assets/linkedin-svgrepo-com.svg" height='18px'/></a>
 <a href='https://www.instagram.com/sarthak130221/'><img align='left' alt="instagram" src="https://github.com/Sarthak9634/Sarthak9634/blob/main/assets/instagram-svgrepo-com.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/sarthakpal1302'><img alt="kaggle" src="http://github.com/Sarthak9634/Sarthak9634/blob/main/assets/kaggle-svgrepo-com.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/sarthakpal1302'><img alt="kaggle" src="https://github.com/Sarthak9634/Sarthak9634/blob/main/assets/kaggle-svgrepo-com.svg" height='18px'/></a>
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
